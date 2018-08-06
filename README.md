@@ -1,2 +1,2 @@
 # baseball
-Data analysis of various batting statistics for Giancarlo Stanton and Aaron Judge
+Data analysis of batting stats for Giancarlo Stanton and Aaron Judge
