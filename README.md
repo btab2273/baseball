@@ -1,2 +1,2 @@
 # baseball
-Data Analysis of Various Baseball Stats
+Data analysis of various batting statistics for Giancarlo Stanton and Aaron Judge
